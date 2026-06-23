@@ -2,7 +2,7 @@
 <h3 align="center">مطور ويب | مبرمج (C, C#, Java, BASH) | خبير أمن سيبراني</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sahiahmed&label=👀%20عدد%20الزوار&color=0e75b6&style=for-the-badge" /> 
+  <img src="https://komarev.com/ghpvc/?username=yugsh4as-alt&label=👀%20عدد%20الزوار&color=0e75b6&style=for-the-badge" /> 
 </p>
 
 <p align="center">
@@ -70,13 +70,13 @@
 ### 📊 إحصائيات SAHI Ahmed Yacine على GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahiahmed&show_icons=true&theme=radical&hide_border=true&title_color=ff6b6b&icon_color=ff6b6b" alt="إحصائيات SAHI" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahiahmed&theme=radical&hide_border=true&fire=ff6b6b&ring=ff6b6b" alt="سلسلة الإنجازات" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yugsh4as-alt&show_icons=true&theme=radical&hide_border=true&title_color=ff6b6b&icon_color=ff6b6b" alt="إحصائيات SAHI" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yugsh4as-alt&theme=radical&hide_border=true&fire=ff6b6b&ring=ff6b6b" alt="سلسلة الإنجازات" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiahmed&show_icons=true&theme=radical&hide_border=true&layout=compact&title_color=ff6b6b" alt="اللغات الأكثر استخداماً" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=sahiahmed&theme=radical&no-frame=true&row=2&column=4" alt="جوائز GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugsh4as-alt&show_icons=true&theme=radical&hide_border=true&layout=compact&title_color=ff6b6b" alt="اللغات الأكثر استخداماً" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=yugsh4as-alt&theme=radical&no-frame=true&row=2&column=4" alt="جوائز GitHub" />
 </div>
 
 ---
