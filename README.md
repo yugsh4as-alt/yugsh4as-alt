@@ -28,9 +28,6 @@
 ### 🌐 تواصل معي
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmedd-adell" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:yugsh4as-alt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -47,7 +44,7 @@
 ### 🛠️ المهارات والأدوات
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,c,cs,java,bash,linux,kali,mongodb,azure,figma" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,cs,java,bash,linux,kali,mongodb,azure,figma" />
 </p>
 
 #### 🔐 أدوات الأمن السيبراني
@@ -64,7 +61,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="BASH" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
